@@ -16,3 +16,8 @@ Code and Notes for DSA practice before placement.
 1. [Three way partitioning of an array around a given value](arraysAndStrings/3WayPartition.cpp) 
 2. [Merge the two arrays into one sorted array in non-decreasing order without using any extra space](arraysAndStrings/Merge2Sorted.cpp)
 3. [Minimum swaps required bring elements less equal K together](arraysAndStrings/minSwaps.cpp)
+
+**Day 4: Recursions**
+
+1. [Reverse a number using recursions](recursions/reverseNumber.cpp)
+2. [Check if a number is palindrome or not using recursions](recursions/palindromeNumber.cpp) 
