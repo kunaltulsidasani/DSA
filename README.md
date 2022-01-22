@@ -21,3 +21,7 @@ Code and Notes for DSA practice before placement.
 
 1. [Reverse a number using recursions](recursions/reverseNumber.cpp)
 2. [Check if a number is palindrome or not using recursions](recursions/palindromeNumber.cpp) 
+
+**Day 5: Backtracking**
+
+1. [N Queens Problems](backtacking/nQueens.cpp)
