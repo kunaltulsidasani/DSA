@@ -25,3 +25,4 @@ Code and Notes for DSA practice before placement.
 **Day 5: Backtracking**
 
 1. [N Queens Problems](backtacking/nQueens.cpp)
+2. [Rat in a Maze Problem](backtacking/ratMaze.cpp)
