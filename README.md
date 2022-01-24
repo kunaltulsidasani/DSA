@@ -24,5 +24,12 @@ Code and Notes for DSA practice before placement.
 
 **Day 5: Backtracking**
 
-1. [N Queens Problems](backtacking/nQueens.cpp)
-2. [Rat in a Maze Problem](backtacking/ratMaze.cpp)
+1. [N Queens Problems](backtracking/nQueens.cpp)
+2. [Rat in a Maze Problem](backtracking/ratMaze.cpp)
+
+**Day 6: Backtracking & Matrix**
+
+1. [sudoku solver](backtracking/sudoku.cpp)
+2. [Get row with max number of 1's](matrix/rowWithMax1.cpp)
+3. [Sort a matrix](matrix/sortedMatrix.cpp)
+4. [Traversal a matrix like a spiral](matrix/spiralTraversal.cpp)
