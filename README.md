@@ -33,3 +33,9 @@ Code and Notes for DSA practice before placement.
 2. [Get row with max number of 1's](matrix/rowWithMax1.cpp)
 3. [Sort a matrix](matrix/sortedMatrix.cpp)
 4. [Traversal a matrix like a spiral](matrix/spiralTraversal.cpp)
+
+**Day 7: Sorting**
+
+1. [Merge sort](arraysAndStrings/mergeSort.cpp)
+2. [Quick sort](arraysAndStrings/quickSort.cpp)
+
